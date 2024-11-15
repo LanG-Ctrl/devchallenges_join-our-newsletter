@@ -73,5 +73,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- Website [your-website.com](https://{your-web-site-link})
+- Website [Join Our Newsletter - LanG](https://lang-ctrl.github.io/devchallenges_join-our-newsletter/)
 - GitHub [@LanG-Ctrl](https://{github.com/LanG-Ctrl})
